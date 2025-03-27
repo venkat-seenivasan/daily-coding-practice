@@ -1,8 +1,8 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Array_Merge_Validation {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        //Scanner sc = new Scanner(System.in);
         
         String arr1[] = {"Hello","World"};
         String arr2[] = {"H","ello","World"};
